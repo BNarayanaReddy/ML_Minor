@@ -3,3 +3,4 @@ Files and python assignments during the Machine Learning in Minor academic cours
 
 ## Semester 2 : 
 > ### Subjects: Machine Learning, Programming for ML 
+* Simple Multiple Linear Regression using Gradient Descent algorithm

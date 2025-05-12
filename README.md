@@ -1,6 +1,8 @@
 # ML_Minor
-Files and python assignments during the Machine Learning in Minor academic courses
+Minor Machine Learning Degree at IIIT RKVALLEY; \
+Taught by Dr. SK Mahammad Rafi
 
 ## Semester 2 : 
-> ### Subjects: Machine Learning, Programming for ML 
+> ### Subject: Machine Learning
 * Simple Linear Regression using Gradient Descent algorithm
+* Logistic Regression with MSE, GD Algo.

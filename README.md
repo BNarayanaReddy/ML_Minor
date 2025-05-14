@@ -6,3 +6,4 @@ Taught by Dr. SK Mahammad Rafi
 > ### Subject: Machine Learning
 * Simple Linear Regression using Gradient Descent algorithm
 * Logistic Regression with MSE, GD Algo.
+* PCA from scratch and verify using sklearn
